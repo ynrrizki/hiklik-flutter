@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "34648232424",
+    "project_id": "hiklik-sports-76bdd",
+    "storage_bucket": "hiklik-sports-76bdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34648232424:android:07d92fae4003e2adf9945d",
+        "android_client_info": {
+          "package_name": "com.hiklik.sports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34648232424-usbqp6rfd3i6q8ut1v5t376surh5bqk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxuNQT-1a1i3prLq0gzz91HLtBmB9HKZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34648232424-usbqp6rfd3i6q8ut1v5t376surh5bqk4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "34648232424-4ri5ffpge9586lpf6gssjun8jp01bika.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hiklik.sports"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34648232424:android:7a7fdcdde4428b1cf9945d",
+        "android_client_info": {
+          "package_name": "com.hiklik.sports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34648232424-usbqp6rfd3i6q8ut1v5t376surh5bqk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxuNQT-1a1i3prLq0gzz91HLtBmB9HKZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34648232424-usbqp6rfd3i6q8ut1v5t376surh5bqk4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "34648232424-4ri5ffpge9586lpf6gssjun8jp01bika.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hiklik.sports"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
